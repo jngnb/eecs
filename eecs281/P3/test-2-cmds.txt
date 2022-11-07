@@ -1,0 +1,20 @@
+# testing keyword and category search
+k a
+g
+c a
+g
+k a b
+r
+c e
+r
+k E
+r
+k e
+r
+k ff
+g
+k f
+d 0
+r
+s
+q
